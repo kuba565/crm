@@ -1,7 +1,5 @@
 <%@ include file="header.jsp" %>
 
-
-hello world.
-
+homepage
 
 <%@ include file="footer.jsp" %>
